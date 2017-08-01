@@ -1,0 +1,57 @@
+
+/*-- ADITIONAL CSS CODE --*/
+
+#img-logo{
+	margin: auto;
+	margin-top: 55px;
+	margin-bottom: 15px;
+}
+
+#textMessageSignIn{
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	font-size: 16px;
+	font-style: bold;
+}
+
+#textMessageRegister{
+	margin: auto;
+	margin-top: 30px;
+	margin-bottom: 40px;
+	font-size: 16px;
+	font-style: bold;
+}
+
+#btnSub{
+	margin: auto;
+	margin-top: 10px;
+	font-size: 18px;
+	font-style: bold;
+	border-radius: 30px;
+}
+
+#textMessageMinChar {
+	margin: auto;
+	font-size: 12px;
+}
+
+#textMessageCreate{
+	margin: auto;
+}
+
+#createAccount{
+	margin: auto;
+	font-style: bold;
+}
+
+#forgotPass{
+	margin: auto;
+}
+
+#inputBook {
+    background:rgba(0,0,0,0);
+    border:none;
+  	width: 100%;
+  	height: 100%;
+}
